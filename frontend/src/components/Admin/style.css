@@ -1,0 +1,7 @@
+.input-field{
+    border: none;
+    background-color: rgb(241,241,241);
+}
+.input-field:focus {
+    outline: none;
+}
